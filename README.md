@@ -1,2 +1,2 @@
-# NBA Analytics
-Evolution of offensive aspects in NBA games over the decades
+# Kaggle Activities
+Courses, Notebooks and Materials for Data Science studies
